@@ -4,7 +4,7 @@ A PCB footprint which adds power switching ability to a coin cell holder
 
 ## Description
 
-This repository contains the KiCad symbol and footprint libraries for toggleSlot
+This repository contains the KiCad symbol and footprint libraries for toggleSlot:
 
 Symbol library: toggleSlot.kicad_sym
 
