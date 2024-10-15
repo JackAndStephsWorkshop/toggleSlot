@@ -21,3 +21,7 @@ Add the footprint library (toggleSlot.pretty) in KiCad's Footprint Libraries man
 ## License
 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Usage
+
+![gif](usage.gif)
