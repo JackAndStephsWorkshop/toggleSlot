@@ -15,8 +15,12 @@ Footprint library: toggleSlot.pretty
 To use these libraries in KiCad, follow these steps:
 
 Download the repository.
+
 Add the symbol library (toggleSlot.kicad_sym) in KiCad's Symbol Libraries manager.
+
 Add the footprint library (toggleSlot.pretty) in KiCad's Footprint Libraries manager.
+
+While any appropriate symbol can be used with this footprint, the suppplied symbol is pre-linked to the right footprint for convenience. 
 
 ## Usage
 
