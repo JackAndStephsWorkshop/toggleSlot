@@ -25,3 +25,5 @@ Add the footprint library (toggleSlot.pretty) in KiCad's Footprint Libraries man
 ## Usage
 
 ![gif](usage.gif)
+
+Important Note: the negative or "on" pad (labeled N1 in the image above) must have a small amount of solder applied to it for the purpose of raising the surface of the pad high enough to make contact with the underside of the battery. 
