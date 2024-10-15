@@ -18,12 +18,12 @@ Download the repository.
 Add the symbol library (toggleSlot.kicad_sym) in KiCad's Symbol Libraries manager.
 Add the footprint library (toggleSlot.pretty) in KiCad's Footprint Libraries manager.
 
-## License
-
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
 ## Usage
+
+The negative or "on" pad (labeled N1 in the image above) must have a small amount of solder applied to it for the purpose of raising the surface of the pad high enough to make contact with the underside of the battery. 
 
 ![gif](usage.gif)
 
-Important Note: the negative or "on" pad (labeled N1 in the image above) must have a small amount of solder applied to it for the purpose of raising the surface of the pad high enough to make contact with the underside of the battery. 
+## License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
