@@ -4,7 +4,7 @@ A PCB footprint which adds power switching ability to a coin cell holder.
 
 UPDATE:
 
-Coin cell batteries can kill a child if swallowed. It is now mandatory that coin cell batteries be secured behind a secondary layer of protection. This design lacks that protection and it therefore should not be used. See [Reese's Law](https://www.reesespurpose.org/reeseslaw)
+Coin cell batteries can kill a child if swallowed. It is now mandatory that coin cell batteries be secured behind a secondary layer of protection. This design lacks that protection and it therefore should not be used. See [Reese's Law] for more information.(https://www.reesespurpose.org/reeseslaw)
 
 The Consumer Product Safety Commission regulation on this topic can be read [here](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Button-Cell-and-Coin-Battery)
 
