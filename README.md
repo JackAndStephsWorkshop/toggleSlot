@@ -1,6 +1,16 @@
 ![ToggleSlot Footprint](image.png)
 # toggleSlot
-A PCB footprint which adds power switching ability to a coin cell holder 
+A PCB footprint which adds power switching ability to a coin cell holder.
+
+UPDATE:
+
+Coin cell batteries can kill a child if swallowed. It is now mandatory that coin cell batteries be secured behind a secondary layer of protection. This design lacks that protection and it therefore should not be used. See [Reese's Law](https://www.reesespurpose.org/reeseslaw)
+
+The Consumer Product Safety Commission regulation on this topic can be read [here](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Button-Cell-and-Coin-Battery)
+
+More broadly, almost all simple coin cell holders lack a secondary locking mechanism, so many other products which employ them, even in a standard configuration, are in violation of [16 CFR Part 1263](https://www.federalregister.gov/documents/2023/09/21/2023-20333/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries)
+
+I've taken down the footprint files. The rest of this repo is up as a notice to anyone who might be searching for similar ideas in the future. 
 
 ## Description
 
